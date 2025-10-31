@@ -1,7 +1,7 @@
 # EXPNO2:BOOLEAN FUNCTION MINIMIZATION
 NAME: V.HARIHARAN
 
-REGISTER NO:24002937
+REGISTER NO:212224220032
 # AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
