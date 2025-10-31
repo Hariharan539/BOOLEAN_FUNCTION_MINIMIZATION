@@ -17,7 +17,6 @@ Hardware – PCs, Cyclone II , USB flasher
 # Software – Quartus prime
 
 # Theory
-Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
 
 # Procedure
@@ -34,20 +33,24 @@ Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) in
 
 
 # Program:
-![Screenshot 2024-11-14 133511](https://github.com/user-attachments/assets/22abc19d-be4d-41bd-9671-e86ae31bbc5f)
+![WhatsApp Image 2024-11-21 at 10 37 54 AM](https://github.com/user-attachments/assets/601332ef-2822-4ece-bf45-1be84ede5214)
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 
 # TRUTH TABLE
-![TT 2](https://github.com/user-attachments/assets/bd69c52b-fe21-4f73-a32f-28dd255eda90)
+![WhatsApp Image 2024-11-21 at 11 43 00 AM](https://github.com/user-attachments/assets/1e03f16b-f980-4ee6-bad9-30f8821df28d)
+
+![WhatsApp Image 2024-11-21 at 11 42 29 AM](https://github.com/user-attachments/assets/4f925ac0-2dfb-4f3b-8fbe-99ec8f8722c0)
+
 
 
 # RTL realization OUTPUT:
-![Screenshot 2024-11-14 133649](https://github.com/user-attachments/assets/204e3336-7678-4315-ae10-04300491e6d0)
+![WhatsApp Image 2024-11-21 at 10 38 08 AM](https://github.com/user-attachments/assets/cc3d3e8f-ed96-4fac-ac53-e03bd65916b7)
 
-# WAVEFORM Output:
-![Screenshot 2024-11-14 133742](https://github.com/user-attachments/assets/a497c929-41cb-4e2f-b3c3-f27ce26e07e6)
+**TRIMING DIAGRAM**
+
+![WhatsApp Image 2024-11-21 at 10 37 43 AM](https://github.com/user-attachments/assets/eb4f7164-3e01-4c14-a93d-fe5a2019e3e8)
+
 
 
 # Result:
